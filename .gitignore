@@ -1,0 +1,16 @@
+/.vscode
+/Accuracy plot.jpg
+/Loss plt.jpg
+
+#Large files
+/big_tweets.csv
+
+#Ignore Large CSVs
+
+big_tweets.CSVs
+tweet_sentiment_450K_shuffled.csv
+tweet_sentiment_450K.csv
+tweet_data_airline.csv
+
+#Large Trained Model
+/sa_450k
